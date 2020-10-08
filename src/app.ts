@@ -1,1 +1,3 @@
-console.log('hola Mundos');
+const hola = () => 'Hola Carlos';
+
+console.log(hola());
