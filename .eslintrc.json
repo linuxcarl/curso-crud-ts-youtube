@@ -31,6 +31,10 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "class-methods-use-this": "off",
+    "no-empty-function": "off",
+    "no-useless-constructor": "off"
   }
 }

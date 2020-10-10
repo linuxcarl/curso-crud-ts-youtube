@@ -13,7 +13,7 @@ export default class Config {
   public static api(): IApi {
     return {
       port: process.env.PORT || 3000,
-      cors: process.env.CORS || '*'
+      cors: process.env.CORS || '*',
     };
   }
 }
